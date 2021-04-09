@@ -1,3 +1,5 @@
+//version 1.0 , todavia estoy intentando hacer que el usuario ponga cuanbtas veces va a tirar el dado
+
 #include <iostream>
 #include <string>
 #include <thread>
